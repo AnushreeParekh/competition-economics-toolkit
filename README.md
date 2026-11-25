@@ -1,6 +1,7 @@
 # Competition Economics Toolkit
 
 ### Structural Merger Simulation and Welfare Analysis
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://competition-economics-toolkit-tdc7nvpwn9px28egsgawbx.streamlit.app/)
 
 A computational industrial organisation framework for analysing horizontal mergers, unilateral pricing effects and merger-specific efficiency gains under differentiated Bertrand competition.
 
